@@ -3,13 +3,13 @@
 
 ---
 
-## ** Table of Contents**  
+## Table of Contents
 - [ Features](#-features)  
 - [ Quick Start](#-quick-start)  
 
 ---
 
-## ** Features**  
+## Features
 **Simple Conversion** - Transform text lists into standard VCF (vCard) files  
 **Memory Efficient** - Dynamic memory allocation handles large contact lists  
 **Cross-Platform** - Works on Linux, Windows (WSL), and macOS  
@@ -17,7 +17,7 @@
 
 ---
 
-## ** Quick Start**  
+## Quick Start  
 ```bash
 # Compile the program
 gcc vcf_generator.c -o vcfgen
